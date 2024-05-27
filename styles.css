@@ -224,7 +224,7 @@ transition-timing-function: ease-in-out;
 #title {
     color: white;
     background-color: #333333;
-    font-size: 30px;
+    font-size: 10vw;
     padding-left: 150px;
     padding-top: 30px;
     padding-bottom: 30px;
